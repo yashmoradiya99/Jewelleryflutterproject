@@ -1,0 +1,13 @@
+this file is Flutter app for user and visitor,
+first you can start Xampp server and start Apache and MYSQL servers,
+then you can add in C:\xampp\htdocs -> Add JewelleryAppAdmin for admin ,
+then also you will add in MySql Database name : JewelleryDesing,
+all set,
+then go to flutterproject\jewelleryapp\lib\resource\UrlResource.dart,
+got it CTR+R and type "CMD", then type  "ipconfig",
+then copy IPV4  Ip-address,
+open UrlResource.dart and change all IP-ADDRESS for this 192/168/122/177 and paste above ip address,
+then all set,
+if code has error then go to terminal and type "flutter pub get", "flutter clean ", 
+then code is error free ,
+then connect phone and run it.
